@@ -13,3 +13,6 @@
 [submodule "vendor/novemberisms/brinevector"]
 	path = vendor/novemberisms/brinevector
 	url = https://github.com/novemberisms/brinevector.git
+[submodule "vendor/josh-perry/--force"]
+	path = vendor/josh-perry/--force
+	url = https://github.com/josh-perry/peachy.git
