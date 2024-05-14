@@ -16,3 +16,6 @@
 [submodule "vendor/josh-perry/peachy"]
 	path = vendor/josh-perry/peachy
 	url = https://github.com/josh-perry/peachy.git
+[submodule "vendor/rxi/classic"]
+	path = vendor/rxi/classic
+	url = https://github.com/rxi/classic.git
