@@ -1,0 +1,15 @@
+[submodule "vendor/snowkittykira/love-error-explorer"]
+	path = vendor/snowkittykira/love-error-explorer
+	url = https://github.com/snowkittykira/love-error-explorer
+[submodule "vendor/tesselode/baton"]
+	path = vendor/tesselode/baton
+	url = https://github.com/tesselode/baton.git
+[submodule "vendor/tesselode/cartographer"]
+	path = vendor/tesselode/cartographer
+	url = https://github.com/tesselode/cartographer.git
+[submodule "vendor/kikito/gamera"]
+	path = vendor/kikito/gamera
+	url = https://github.com/kikito/gamera.git
+[submodule "vendor/novemberisms/brinevector"]
+	path = vendor/novemberisms/brinevector
+	url = https://github.com/novemberisms/brinevector.git
